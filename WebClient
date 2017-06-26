@@ -1,0 +1,23 @@
+using System;
+using System.Net;
+
+namespace tmp
+{
+	class Program
+	{
+		public static void Main(string[] args)
+		{
+			Console.WriteLine("Hello World!");
+			WebClient client = new WebClient();
+			Uri ur = new Uri(@"http://resources.finance.ua/ru/public/currency-cash.xml");
+			client.Proxy.Credentials = CredentialCache.DefaultCredentials;
+			
+			string buffer = client.DownloadString(@"http://resources.finance.ua/ru/public/currency-cash.xml");
+			Console.WriteLine(buffer);
+			// TODO: Implement Functionality Here
+			
+			Console.Write("Press any key to continue . . . ");
+			Console.ReadKey(true);
+		}
+	}
+}
