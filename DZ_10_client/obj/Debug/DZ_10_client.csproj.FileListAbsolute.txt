@@ -1,0 +1,6 @@
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#10\DZ_10\DZ_10_client\bin\Debug\DZ_10_client.exe.config
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#10\DZ_10\DZ_10_client\bin\Debug\DZ_10_client.exe
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#10\DZ_10\DZ_10_client\bin\Debug\DZ_10_client.pdb
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#10\DZ_10\DZ_10_client\obj\Debug\DZ_10_client.csprojResolveAssemblyReference.cache
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#10\DZ_10\DZ_10_client\obj\Debug\DZ_10_client.exe
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#10\DZ_10\DZ_10_client\obj\Debug\DZ_10_client.pdb
